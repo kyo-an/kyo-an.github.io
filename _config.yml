@@ -9,7 +9,7 @@ url: "https://www.kyoan.work" # the base hostname & protocol for your site
 author:
   fullname: Kyo-An
   github: kyo-an
-  email: kyoan.services (at) gmail.co
+  email: kyoan.services (at) gmail
   
 # Syntax highlighting
 highlightstyle: 'agate'
